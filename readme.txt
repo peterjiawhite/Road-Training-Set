@@ -1,4 +1,4 @@
-The project is about The SAR Road-Training-Set,
+This project is to build a road training set for high resolution SAR satellite images.
 We try to make a multi-scale, medium-scale road data set.
-In order to facilitate in-depth learning methods in road network extraction, 
-road network semantics segmentation research. 
+In order to facilitate the use of deep learning methods in road network extraction, 
+And road network semantics segmentation research. 
